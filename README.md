@@ -4,7 +4,7 @@
 
 I am Tan. I am a graduate student major in Data Science at University of the Pacific. As you all coding is my hobby and life style. I met coding at the beginning of my master program. My bachelor was in Fashion Design. It gives me the ability to think creatively. The most important thing working in Data Science field is keeping get updated! So I think it's time to get more active in Github, follow me!
 
-[![GitHub followers](https://img.shields.io/github/followers/TanZheng96?label=Follow&style=social)](https://github.com/AsynctaskCoffee/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/TanZheng96?label=Follow&style=social)](https://github.com/TanZheng96/?tab=follow)
 
 
 ![TanZheng96's github stats](https://github-readme-stats.vercel.app/api?username=TanZheng96&show_icons=true&hide_border=true)
